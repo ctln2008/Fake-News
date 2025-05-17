@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(35, 34, 34);
+}
+p, h2 {
+    color: white;
+}
+.color-line {
+    text-decoration: underline;
+    text-decoration-color: darkturquoise;
+}
+.green {
+    color: green;
+}
+.red {
+    color: red;
+}
+.blue {
+    color: blue;
+}
+.text {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-radius: 5px;
+    padding: 7px;
+}
